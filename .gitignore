@@ -1,0 +1,16 @@
+.DS_Store
+
+# Local/editor state
+.cache/
+logs/
+sessions/
+*.log
+
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+*.token
+secrets.*
+tokens.*

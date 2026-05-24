@@ -1,0 +1,6 @@
+{
+  "id": "azusamochi",
+  "displayName": "AzusaMochi",
+  "description": "A bouncing round virtual Azusa mochi pet with a smoother poke-and-bounce idle loop.",
+  "spritesheetPath": "spritesheet.webp"
+}
